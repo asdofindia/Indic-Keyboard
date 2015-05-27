@@ -10,22 +10,24 @@ This keyboard requires Android 4.1+.
 * Android 4.1 and above.
 
 ## Supported Languages & Layouts
+* Arabic
 * Assamese: Inscript, Transliteration
 * Bengali: Probhat, Avro, Inscript
 * Gujarati: Phonetic, Inscript, Transliteration
 * Hindi: Phonetic, Inscript, Transliteration
-* Kannada:  Phonetic, Inscript, Transliteration
-* Kashmiri/Kashur: Inscript
-* Malayalam: Phonetic (based on lalitha), Inscript, Transliteration
+* Kannada:  Compact, Phonetic, Inscript, Inscript Mobile, Transliteration
+* Kashmiri/Kashur: Inscript, Transliteration
+* Malayalam: Compact, Phonetic (based on lalitha), Phonetic (based on swanalekha) Inscript, Transliteration
 * Marathi: Transliteration
+* Mon
 * Myanmar (Burmese): xkb
 * Nepali: Phonetic, Traditional, Transliteration, Inscript
 * Oriya/Odia:  Inscript, Transliteration
 * Punjabi:  Phonetic, Inscript, Transliteration
 * Sanskrit: Transliteration
 * Sinhalese: Transliteration
-* Tamil: Tamil-99 (initial support), Inscript, Phonetic
-* Telugu:  Phonetic, Inscript, Transliteration, KaChaTaThaPa
+* Tamil: Tamil-99 (initial support), Inscript, Phonetic, Compact, Transliteration
+* Telugu:  Phonetic, Inscript, Transliteration, KaChaTaThaPa, Compact
 * Urdu: Transliteration
 
 ## License 
